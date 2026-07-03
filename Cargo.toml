@@ -2,5 +2,11 @@
 name = "prisme"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/kognitara/jinshu"
+license = "AGPL-3.0"
+description = "Lightweight environment engine that refracts declarative source definitions into isolated, resilient execution spectra"
+readme = "README.md"
+keywords = ["runtime", "wasm", "unikernel", "sandbox", "virtualization"]
+categories = ["virtualization", "os-development", "embedded"]
 
 [dependencies]
